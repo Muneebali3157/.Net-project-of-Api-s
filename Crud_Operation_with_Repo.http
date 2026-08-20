@@ -1,0 +1,6 @@
+@Crud_Operation_with_Repo_HostAddress = http://localhost:5073
+
+GET {{Crud_Operation_with_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
